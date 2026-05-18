@@ -1,0 +1,26 @@
+[
+  {
+    "id": "student_noisy-event-001",
+    "summary": "L?p To?n r?i r?c",
+    "description": "",
+    "start": "2026-05-16T09:00:00+07:00",
+    "end": "2026-05-16T11:00:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "class",
+    "priority_hint": "medium"
+  },
+  {
+    "id": "student_noisy-event-002",
+    "summary": "C? ph? v?i b?n",
+    "description": "",
+    "start": "2026-05-16T18:00:00+07:00",
+    "end": "2026-05-16T19:00:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "personal",
+    "priority_hint": "low"
+  }
+]

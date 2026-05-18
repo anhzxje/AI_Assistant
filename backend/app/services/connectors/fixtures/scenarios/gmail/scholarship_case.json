@@ -1,0 +1,63 @@
+[
+  {
+    "id": "scholarship_case-mail-001",
+    "thread_id": "scholarship_case-thread-001",
+    "from": "Ph?ng CTSV <ctsv@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Th?ng b?o h?c b?ng HUS",
+    "snippet": "Deadline n?p h? s? h?c b?ng l? 21/05/2026.",
+    "body": "?i?n bi?u m?u, b?ng ?i?m v? minh ch?ng tr??c deadline.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "scholarship_case-mail-002",
+    "thread_id": "scholarship_case-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "H??ng d?n x?c nh?n b?ng ?i?m",
+    "snippet": "Sinh vi?n c?n xin x?c nh?n b?ng ?i?m t?i ph?ng ??o t?o.",
+    "body": "Mang th? sinh vi?n khi l?m th? t?c.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "admin",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "scholarship_case-mail-003",
+    "thread_id": "scholarship_case-thread-003",
+    "from": "Marketing <ads@example.com>",
+    "to": "student@omni.local",
+    "subject": "?u ??i luy?n IELTS",
+    "snippet": "Khuy?n m?i kh?a h?c IELTS.",
+    "body": "Kh?ng li?n quan h? s? h?c b?ng.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "promotion",
+    "priority_hint": "low",
+    "expected_task": false
+  }
+]

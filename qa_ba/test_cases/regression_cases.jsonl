@@ -1,0 +1,4 @@
+{"id":"regression_leadership_official","query":"hiệu trưởng HUS là ai","expected_intent":"institutional_rag","expected_source_domain":"hus.vnu.edu.vn"}
+{"id":"regression_date_time","query":"hôm nay là ngày nào","expected_intent":"date_time"}
+{"id":"regression_general_chat","query":"giải thích AI là gì","expected_intent":"general_chat"}
+{"id":"regression_fallback_noise","query":"asdfgh qwerty zzz","expected_intent":"fallback"}

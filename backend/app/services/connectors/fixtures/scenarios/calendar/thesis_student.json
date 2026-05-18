@@ -1,0 +1,26 @@
+[
+  {
+    "id": "thesis_student-event-001",
+    "summary": "G?p gi?ng vi?n h??ng d?n",
+    "description": "",
+    "start": "2026-05-16T15:00:00+07:00",
+    "end": "2026-05-16T16:00:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "meeting",
+    "priority_hint": "high"
+  },
+  {
+    "id": "thesis_student-event-002",
+    "summary": "B?o v? lu?n v?n d? ki?n",
+    "description": "",
+    "start": "2026-05-20T09:00:00+07:00",
+    "end": "2026-05-20T10:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "exam",
+    "priority_hint": "high"
+  }
+]

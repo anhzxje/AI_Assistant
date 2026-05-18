@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-05-16T06:32:51.623434+00:00",
+  "status": "pass",
+  "signals": [],
+  "metrics": {
+    "document_count": 19,
+    "chunk_count": 285,
+    "document_type_distribution": {
+      "program": 3,
+      "general_info": 3,
+      "announcement": 1,
+      "lecturer_profile": 151,
+      "quality_assurance": 33,
+      "admission": 90,
+      "error_page": 1,
+      "leadership": 1,
+      "organization": 1,
+      "department": 1
+    },
+    "source_domain_distribution": {
+      "hus.vnu.edu.vn": 16,
+      "tuyensinh.hus.vnu.edu.vn": 3
+    },
+    "average_boilerplate_score": 0.0042,
+    "feedback_downvotes": 0,
+    "synthetic_feedback_records": 129,
+    "retrieval_hit_rate": 0.8
+  },
+  "mvp_note": "Compares current distributions and QA thresholds. Production can persist historical baselines for statistical drift tests."
+}

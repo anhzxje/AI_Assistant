@@ -1,0 +1,26 @@
+[
+  {
+    "id": "admin_staff-event-001",
+    "summary": "H?p giao ban ph?ng ban",
+    "description": "",
+    "start": "2026-05-16T09:00:00+07:00",
+    "end": "2026-05-16T10:00:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "meeting",
+    "priority_hint": "high"
+  },
+  {
+    "id": "admin_staff-event-002",
+    "summary": "H?n g?i bi?u m?u",
+    "description": "",
+    "start": "2026-05-16T17:00:00+07:00",
+    "end": "2026-05-16T17:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "deadline",
+    "priority_hint": "high"
+  }
+]

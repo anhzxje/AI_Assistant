@@ -1,0 +1,38 @@
+[
+  {
+    "id": "student_clean-event-001",
+    "summary": "L?p Data Mining",
+    "description": "H?c v? evaluation pipeline",
+    "start": "2026-05-16T08:00:00+07:00",
+    "end": "2026-05-16T10:00:00+07:00",
+    "location": "Ph?ng 203",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "class",
+    "priority_hint": "medium"
+  },
+  {
+    "id": "student_clean-event-002",
+    "summary": "L?m vi?c nh?m RAG",
+    "description": "R? so?t demo v? citations",
+    "start": "2026-05-16T19:30:00+07:00",
+    "end": "2026-05-16T21:00:00+07:00",
+    "location": "Online",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "meeting",
+    "priority_hint": "medium"
+  },
+  {
+    "id": "student_clean-event-003",
+    "summary": "Deadline b?o c?o nh?m",
+    "description": "N?p b?o c?o Data Mining",
+    "start": "2026-05-20",
+    "end": "2026-05-21",
+    "location": "LMS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "deadline",
+    "priority_hint": "high"
+  }
+]

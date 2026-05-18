@@ -1,0 +1,39 @@
+.env
+.venv/
+client_secret*.json
+credentials*.json
+token*.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Generated institutional and personal data.
+data/raw/**
+data/processed/**
+data/features/**
+data/metadata/**
+data/personal_memory/**
+data/generated/**
+data/feedback/**
+data/jobs/**
+!data/raw/**/
+!data/processed/**/
+!data/features/**/
+!data/metadata/**/
+!data/personal_memory/**/
+!data/generated/**/
+!data/feedback/**/
+!data/jobs/**/
+!data/**/.gitkeep
+
+# Local model/cache artifacts.
+models/
+mlruns/
+*.sqlite
+*.db
+
+# Logs and backups
+*.log
+backups/
+

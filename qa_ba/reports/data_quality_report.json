@@ -1,0 +1,84 @@
+{
+  "processed_documents": {
+    "path": "D:\\OmniAssistant_Workspace\\project-root\\data\\processed\\documents\\2026-05-16\\processed_documents.jsonl",
+    "total_documents": 19,
+    "issue_count": 0,
+    "issues": [],
+    "duplicate_content_hash_count": 0,
+    "missing_title_count": 0,
+    "language_missing_or_unknown_count": 0,
+    "stale_or_unknown_date_count": 16,
+    "empty_docs_count": 0,
+    "too_long_docs_count": 0,
+    "high_boilerplate_count": 0,
+    "language_anomaly_count": 0,
+    "valid_document_types": {
+      "program": 2,
+      "general_info": 2,
+      "announcement": 1,
+      "lecturer_profile": 6,
+      "quality_assurance": 2,
+      "admission": 2,
+      "error_page": 1,
+      "leadership": 1,
+      "organization": 1,
+      "department": 1
+    }
+  },
+  "chunks": {
+    "path": "D:\\OmniAssistant_Workspace\\project-root\\data\\features\\chunks\\2026-05-16\\document_chunks.jsonl",
+    "total_chunks": 285,
+    "issue_count": 0,
+    "issues": [],
+    "duplicate_chunk_id_count": 0,
+    "chunks_by_document_type": {
+      "program": 3,
+      "general_info": 3,
+      "announcement": 1,
+      "lecturer_profile": 151,
+      "quality_assurance": 33,
+      "admission": 90,
+      "error_page": 1,
+      "leadership": 1,
+      "organization": 1,
+      "department": 1
+    },
+    "missing_preview_count": 0,
+    "language_anomaly_count": 0,
+    "chunk_length": {
+      "min": 197,
+      "max": 899,
+      "average": 760.24,
+      "outlier_count": 0
+    }
+  },
+  "file_ingestion": {
+    "manifest_path": "D:\\OmniAssistant_Workspace\\project-root\\data\\metadata\\file_ingestion_manifest.jsonl",
+    "record_count": 111,
+    "latest_success_count": 3,
+    "required_types": [
+      "csv",
+      "excel",
+      "json"
+    ],
+    "type_summary": {
+      "json": {
+        "count": 1,
+        "rows": 4,
+        "status": "ok"
+      },
+      "csv": {
+        "count": 1,
+        "rows": 5,
+        "status": "ok"
+      },
+      "excel": {
+        "count": 1,
+        "rows": 6,
+        "status": "ok"
+      }
+    },
+    "issue_count": 0,
+    "issues": []
+  }
+}

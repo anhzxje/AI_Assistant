@@ -1,0 +1,427 @@
+{
+  "total_cases": 19,
+  "passed_cases": 2,
+  "pass_rate": 0.1053,
+  "average_latency_ms": 1602.68,
+  "results": [
+    {
+      "query": "feedback eval 8ad0079c-c7b2-405c-a9a0-3dc3abdaa869",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 79,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "khoa học dữ liệu học những môn gì",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": true,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": true,
+        "sources_exist": true
+      },
+      "intent": "institutional_rag",
+      "sources_count": 6,
+      "quality": {
+        "quality_score": 0.7,
+        "issues": [
+          "latency_too_high",
+          "source_repeated:https://tuyensinh.hus.vnu.edu.vn/dai-hoc/nganh-hoc/toan-toan-ung-dung-va-tin-hoc/khoa-hoc-du-lieu"
+        ],
+        "suggested_feedback_reason": "irrelevant_retrieval",
+        "requires_admin_review": true
+      },
+      "latency_ms": 29882,
+      "answer_preview": "Mình tìm thấy các thông tin liên quan trong nguồn đã lập chỉ mục:\nNgữ cảnh cá nhân liên quan: SEMANTIC_MEMORY:\n[1] thống kê và toán học nhằm phân tích và xử lí các tập dữ liệu lớn và phức tạp. Sinh viên ngành Khoa học dữ liệu sẽ được trang bị kiến thức lí thuyết về các phương pháp và thuật toán trong khoa học dữ liệu cũng như thực tiễn sử dụng các phương pháp khoa học dữ liệu. 2.2. Mục tiêu cụ thể: Chương trình đào tạo ngành Khoa học dữ liệu có các mục tiêu cụ thể như sau. - Trang bị kiến thức c"
+    },
+    {
+      "query": "feedback eval 1998a884-7e83-4c3a-8550-9d755de9e338",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 21,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval f889f062-7297-483b-b76a-f87c2743ba5e",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 34,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval b4879fdc-1a75-4d51-9324-ef9dc6865d39",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 40,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 156bba9f-da35-497c-a90c-8c045725cedb",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 32,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 02833cd1-663f-4caf-9166-ff0254d4c70d",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 18,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 26d10d40-9525-4a14-99cd-55110c30fe2b",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 30,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 7f8906ca-abbc-4a66-8ff2-8ecb356ca1bf",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 23,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 04a803d8-e553-426c-b082-f2958d7b17e2",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 25,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 812b2799-1025-4aa1-b370-30ab345ab01d",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 23,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "helpful answer",
+      "reason": "other",
+      "expected_behavior": "should improve answer quality",
+      "passed": true,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 34,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 8017a9e6-0a2e-4bc7-92fd-384b05c5c61e",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 26,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 75db9393-1f06-4738-aef3-2c3511157769",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 40,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval a4ff5377-0239-4451-93bc-377878cd5dc5",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 26,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval dcc14d0f-824e-4f82-9e77-da7bca7f1eff",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 27,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 1bd6ad36-b6c4-4f7a-a8ea-03e5c9733118",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 30,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval e119e562-81ea-40c9-8471-6b83830de026",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 27,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    },
+    {
+      "query": "feedback eval 7a0a007e-a6e7-454a-8821-67a4ce064901",
+      "reason": "missing_source",
+      "expected_behavior": "should retrieve relevant source",
+      "passed": false,
+      "checks": {
+        "answer_not_empty": true,
+        "quality_score_threshold": true,
+        "correction_partial_alignment": false,
+        "sources_exist": false
+      },
+      "intent": "fallback",
+      "sources_count": 0,
+      "quality": {
+        "quality_score": 1.0,
+        "issues": [],
+        "suggested_feedback_reason": "other",
+        "requires_admin_review": false
+      },
+      "latency_ms": 34,
+      "answer_preview": "I can help with HUS academic questions, follow-up questions about earlier HUS topics, memory, open tasks, Gmail summaries, calendar, and daily briefing. Ask a concrete question or tell me what to remember."
+    }
+  ]
+}

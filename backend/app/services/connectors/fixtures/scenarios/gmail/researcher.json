@@ -1,0 +1,62 @@
+[
+  {
+    "id": "researcher-mail-001",
+    "thread_id": "researcher-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Conference deadline reminder",
+    "snippet": "Deadline n?p paper workshop l? 25/05/2026.",
+    "body": "C?n ho?n thi?n abstract v? supplementary.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "research",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "researcher-mail-002",
+    "thread_id": "researcher-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Lab meeting agenda",
+    "snippet": "H?p lab c?p nh?t ti?n ?? th? nghi?m.",
+    "body": "Chu?n b? k?t qu? benchmark.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "meeting",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "researcher-mail-003",
+    "thread_id": "researcher-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "M?i seminar AI",
+    "snippet": "Seminar v? LLM evaluation chi?u nay.",
+    "body": "C? ph?n th?o lu?n v? RAGAS.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "seminar",
+    "priority_hint": "medium",
+    "expected_task": false
+  }
+]

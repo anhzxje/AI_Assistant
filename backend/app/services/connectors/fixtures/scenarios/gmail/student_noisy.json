@@ -1,0 +1,372 @@
+[
+  {
+    "id": "student_noisy-mail-001",
+    "thread_id": "student_noisy-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Email h?c t?p quan tr?ng 1",
+    "snippet": "Deadline ho?c th?ng b?o h?c t?p quan tr?ng s? 1.",
+    "body": "N?i dung h?c t?p c?n x? l?, deadline 21/05/2026.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "high",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-002",
+    "thread_id": "student_noisy-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Email h?c t?p quan tr?ng 2",
+    "snippet": "Deadline ho?c th?ng b?o h?c t?p quan tr?ng s? 2.",
+    "body": "N?i dung h?c t?p c?n x? l?, deadline 22/05/2026.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_noisy-mail-003",
+    "thread_id": "student_noisy-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Email h?c t?p quan tr?ng 3",
+    "snippet": "Deadline ho?c th?ng b?o h?c t?p quan tr?ng s? 3.",
+    "body": "N?i dung h?c t?p c?n x? l?, deadline 23/05/2026.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "high",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-004",
+    "thread_id": "student_noisy-thread-004",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Email h?c t?p quan tr?ng 4",
+    "snippet": "Deadline ho?c th?ng b?o h?c t?p quan tr?ng s? 4.",
+    "body": "N?i dung h?c t?p c?n x? l?, deadline 24/05/2026.",
+    "date": "2026-05-16T12:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_noisy-mail-005",
+    "thread_id": "student_noisy-thread-005",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Email h?c t?p quan tr?ng 5",
+    "snippet": "Deadline ho?c th?ng b?o h?c t?p quan tr?ng s? 5.",
+    "body": "N?i dung h?c t?p c?n x? l?, deadline 25/05/2026.",
+    "date": "2026-05-16T13:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_noisy-mail-006",
+    "thread_id": "student_noisy-thread-006",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 6",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 6.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-16T14:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "spam",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-007",
+    "thread_id": "student_noisy-thread-007",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 7",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 7.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-16T15:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "promotion",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-008",
+    "thread_id": "student_noisy-thread-008",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 8",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 8.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T16:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "spam",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-009",
+    "thread_id": "student_noisy-thread-009",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 9",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 9.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T17:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "promotion",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-010",
+    "thread_id": "student_noisy-thread-010",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 10",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 10.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T08:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "spam",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-011",
+    "thread_id": "student_noisy-thread-011",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 11",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 11.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T09:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "promotion",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-012",
+    "thread_id": "student_noisy-thread-012",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 12",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 12.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T10:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "spam",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-013",
+    "thread_id": "student_noisy-thread-013",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 13",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 13.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T11:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "promotion",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-014",
+    "thread_id": "student_noisy-thread-014",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 14",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 14.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T12:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "spam",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-015",
+    "thread_id": "student_noisy-thread-015",
+    "from": "Promo <promo@example.com>",
+    "to": "student@omni.local",
+    "subject": "Khuy?n m?i sinh vi?n 15",
+    "snippet": "?u ??i mua s?m kh?ng li?n quan s? 15.",
+    "body": "N?i dung qu?ng c?o, kh?ng li?n quan h?c t?p.",
+    "date": "2026-05-17T13:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "promotion",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-016",
+    "thread_id": "student_noisy-thread-016",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Trao ??i th??ng 16",
+    "snippet": "Th?ng tin b?nh th??ng s? 16.",
+    "body": "N?i dung kh?ng g?p, ch? c?n ??c khi r?nh.",
+    "date": "2026-05-18T14:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-017",
+    "thread_id": "student_noisy-thread-017",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Trao ??i th??ng 17",
+    "snippet": "Th?ng tin b?nh th??ng s? 17.",
+    "body": "N?i dung kh?ng g?p, ch? c?n ??c khi r?nh.",
+    "date": "2026-05-18T15:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "personal",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-018",
+    "thread_id": "student_noisy-thread-018",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Trao ??i th??ng 18",
+    "snippet": "Th?ng tin b?nh th??ng s? 18.",
+    "body": "N?i dung kh?ng g?p, ch? c?n ??c khi r?nh.",
+    "date": "2026-05-18T16:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-019",
+    "thread_id": "student_noisy-thread-019",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Trao ??i th??ng 19",
+    "snippet": "Th?ng tin b?nh th??ng s? 19.",
+    "body": "N?i dung kh?ng g?p, ch? c?n ??c khi r?nh.",
+    "date": "2026-05-18T17:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "personal",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_noisy-mail-020",
+    "thread_id": "student_noisy-thread-020",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Trao ??i th??ng 20",
+    "snippet": "Th?ng tin b?nh th??ng s? 20.",
+    "body": "N?i dung kh?ng g?p, ch? c?n ??c khi r?nh.",
+    "date": "2026-05-18T08:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  }
+]

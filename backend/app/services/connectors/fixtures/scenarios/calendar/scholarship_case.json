@@ -1,0 +1,26 @@
+[
+  {
+    "id": "scholarship_case-event-001",
+    "summary": "Deadline h?c b?ng",
+    "description": "N?p h? s? h?c b?ng",
+    "start": "2026-05-16T17:00:00+07:00",
+    "end": "2026-05-16T17:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "deadline",
+    "priority_hint": "high"
+  },
+  {
+    "id": "scholarship_case-event-002",
+    "summary": "Xin x?c nh?n b?ng ?i?m",
+    "description": "",
+    "start": "2026-05-16T10:00:00+07:00",
+    "end": "2026-05-16T10:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "personal",
+    "priority_hint": "medium"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "student_deadline_heavy-mail-001",
+    "thread_id": "student_deadline_heavy-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 1",
+    "snippet": "Deadline n?p nhi?m v? 1 l? 18/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 18/05/2026.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-002",
+    "thread_id": "student_deadline_heavy-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 2",
+    "snippet": "Deadline n?p nhi?m v? 2 l? 19/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 19/05/2026.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-003",
+    "thread_id": "student_deadline_heavy-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 3",
+    "snippet": "Deadline n?p nhi?m v? 3 l? 20/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 20/05/2026.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-004",
+    "thread_id": "student_deadline_heavy-thread-004",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 4",
+    "snippet": "Deadline n?p nhi?m v? 4 l? 21/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 21/05/2026.",
+    "date": "2026-05-16T12:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-005",
+    "thread_id": "student_deadline_heavy-thread-005",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 5",
+    "snippet": "Deadline n?p nhi?m v? 5 l? 22/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 22/05/2026.",
+    "date": "2026-05-16T13:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-006",
+    "thread_id": "student_deadline_heavy-thread-006",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 6",
+    "snippet": "Deadline n?p nhi?m v? 6 l? 23/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 23/05/2026.",
+    "date": "2026-05-16T14:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-007",
+    "thread_id": "student_deadline_heavy-thread-007",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 7",
+    "snippet": "Deadline n?p nhi?m v? 7 l? 24/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 24/05/2026.",
+    "date": "2026-05-16T15:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-008",
+    "thread_id": "student_deadline_heavy-thread-008",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 8",
+    "snippet": "Deadline n?p nhi?m v? 8 l? 25/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 25/05/2026.",
+    "date": "2026-05-17T16:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-009",
+    "thread_id": "student_deadline_heavy-thread-009",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 9",
+    "snippet": "Deadline n?p nhi?m v? 9 l? 26/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 26/05/2026.",
+    "date": "2026-05-17T17:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-010",
+    "thread_id": "student_deadline_heavy-thread-010",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 10",
+    "snippet": "Deadline n?p nhi?m v? 10 l? 27/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 27/05/2026.",
+    "date": "2026-05-17T08:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-011",
+    "thread_id": "student_deadline_heavy-thread-011",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 11",
+    "snippet": "Deadline n?p nhi?m v? 11 l? 28/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 28/05/2026.",
+    "date": "2026-05-17T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_deadline_heavy-mail-012",
+    "thread_id": "student_deadline_heavy-thread-012",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline h?c ph?n 12",
+    "snippet": "Deadline n?p nhi?m v? 12 l? 29/05/2026.",
+    "body": "C?n ho?n t?t tr??c deadline 29/05/2026.",
+    "date": "2026-05-17T10:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  }
+]

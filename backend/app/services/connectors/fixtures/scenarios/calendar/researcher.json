@@ -1,0 +1,26 @@
+[
+  {
+    "id": "researcher-event-001",
+    "summary": "Lab meeting",
+    "description": "",
+    "start": "2026-05-16T10:00:00+07:00",
+    "end": "2026-05-16T11:00:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "meeting",
+    "priority_hint": "medium"
+  },
+  {
+    "id": "researcher-event-002",
+    "summary": "Seminar LLM evaluation",
+    "description": "",
+    "start": "2026-05-16T15:00:00+07:00",
+    "end": "2026-05-16T16:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "seminar",
+    "priority_hint": "medium"
+  }
+]

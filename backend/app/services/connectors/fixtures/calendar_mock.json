@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mock-event-001",
+    "summary": "Seminar luận văn",
+    "description": "Chuẩn bị câu hỏi về tiến độ thesis và tài liệu liên quan.",
+    "location": "Phòng 305",
+    "start": {"dateTime": "2026-05-15T14:00:00+07:00"},
+    "end": {"dateTime": "2026-05-15T15:00:00+07:00"},
+    "status": "confirmed"
+  },
+  {
+    "id": "mock-event-002",
+    "summary": "Làm việc nhóm Data Mining",
+    "description": "Rà soát pipeline ingestion, QA report và demo frontend.",
+    "location": "Online",
+    "start": {"dateTime": "2026-05-15T19:30:00+07:00"},
+    "end": {"dateTime": "2026-05-15T21:00:00+07:00"},
+    "status": "confirmed"
+  },
+  {
+    "id": "mock-event-003",
+    "summary": "Deadline học bổng",
+    "description": "Kiểm tra hồ sơ và biểu mẫu học bổng.",
+    "location": "",
+    "start": {"date": "2026-05-20"},
+    "end": {"date": "2026-05-21"},
+    "status": "confirmed"
+  }
+]

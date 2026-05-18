@@ -1,0 +1,262 @@
+{
+  "total_cases": 18,
+  "top_k": 5,
+  "use_llm": false,
+  "average_groundedness_score": 0.6887,
+  "citation_marker_pass_rate": 0.2778,
+  "average_latency_ms": 751.22,
+  "results": [
+    {
+      "query": "khoa học dữ liệu học những môn gì",
+      "mode": "deterministic_summary",
+      "latency_ms": 12929,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.7083,
+        "has_citation_marker": true,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.2083,
+        "says_insufficient": false
+      },
+      "answer_preview": "Ngành Khoa học dữ liệu học nền tảng thuộc ba nhóm chính: Khoa học máy tính, Thống kê và Toán ứng dụng. Chương trình cũng nhấn mạnh lập trình, lưu trữ và tổ chức dữ liệu, mô hình hóa, phân tích dữ liệu bằng thống kê và các kỹ năng thực hành dữ liệu [1]."
+    },
+    {
+      "query": "danh sách cán bộ giảng viên",
+      "mode": "extractive_fallback",
+      "latency_ms": 41,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.5988,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.3488,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Năm 2023, Nhà trường đã thực hiện điều chỉnh toàn bộ 110 chương trình đào tạo (CTĐT) ở bậc đại học và sau đại học để phù hợp với các quy định, quy chế hiện hành của Bộ Giáo dục và Đào tạo, Đại học Quốc gia Hà Nội cũng như để phù hợp với….\n- Trong đợt chi viện hơn 100 cán bộ giảng dạy cho miền Nam, 3 cán bộ của Trường đã được giao trọng trách giữ chức vụ Hiệu trưởng của 3 trường đại học cơ bản lớn nhất ở miền Nam:….\n- Từ năm 2016 đến "
+    },
+    {
+      "query": "thông báo tuyển sinh mới nhất",
+      "mode": "extractive_fallback",
+      "latency_ms": 33,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.5909,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.3409,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Điều chỉnh thông tin xét tuyển ĐHCQ năm 2025 phương thức IELTS kết hợp TRA CỨU KẾT QUẢ XÉT TUYỂN THẲNG VÀO ĐẠI HỌC CHÍNH QUY NĂM 2025 THÔNG BÁO GIA HẠN ĐĂNG KÝ HỒ SƠ XÉT TUYỂN TRỰC TUYẾN ĐẠI HỌC CHÍNH QUY NĂM 2025 HƯỚNG DẪN ĐĂNG KÝ HỒ SƠ….\n- Hội đồng tuyển sinh Trường Đại học Khoa học Tự nhiên thông báo, hướng dẫn tới các thí sinh trúng tuyển hệ đại học chính quy năm 2025 nhập học trực tuyến và trực tiếp theo các hướng dẫn dưới đây: "
+    },
+    {
+      "query": "trường đại học khoa học tự nhiên có lịch sử như thế nào",
+      "mode": "extractive_fallback",
+      "latency_ms": 43,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.5417,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Sứ mạng và Tầm nhìn Đào tạo nguồn nhân lực chất lượng cao và phát hiện, bồi dưỡng nhân tài; tiên phong trong nghiên cứu, đổi mới sáng tạo và chuyển giao tri thức về khoa học tự nhiên và công nghệ, góp phần tích cực vào sự phát triển, xây….\n- Mặc dù, thời gian qua nhiều Giáo sư, Phó giáo sư đã nghỉ hưu, tỷ lệ Giáo sư, Phó giáo sư trên tổng số giảng viên cơ hữu của Trường đạt 45%, dẫn đầu các trường đại học trong cả nước.….\n- nhiên vươ"
+    },
+    {
+      "query": "chương trình đào tạo toán tin",
+      "mode": "extractive_fallback",
+      "latency_ms": 34,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.4375,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- đáp ứng được yêu cầu tuyển dụng của các công ty công nghệ thông tin Nhật Bản, đang có nhu cầu rất lớn về nhân lực Việt Nam trong vòng vài chục năm tới. Sinh viên tốt nghiệp có thể tiếp tục học tập chuyên sâu ở bậc sau đại học các chuyên….\n- Chương trình đào tạo ngành Khoa học dữ liệu trang bị cho sinh viên kiến thức nền tảng thuộc 3 lĩnh vực chính, gồm Khoa học máy tính, Thống kê và Toán ứng dụng, đều là các thế mạnh của Khoa Toán – "
+    },
+    {
+      "query": "quy chế hoặc quyết định liên quan đào tạo thạc sĩ",
+      "mode": "extractive_fallback",
+      "latency_ms": 45,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.5561,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.3061,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Điều chỉnh thông tin xét tuyển ĐHCQ năm 2025 phương thức IELTS kết hợp TRA CỨU KẾT QUẢ XÉT TUYỂN THẲNG VÀO ĐẠI HỌC CHÍNH QUY NĂM 2025 THÔNG BÁO GIA HẠN ĐĂNG KÝ HỒ SƠ XÉT TUYỂN TRỰC TUYẾN ĐẠI HỌC CHÍNH QUY NĂM 2025 HƯỚNG DẪN ĐĂNG KÝ HỒ SƠ….\n- Năm 2023, Nhà trường đã thực hiện điều chỉnh toàn bộ 110 chương trình đào tạo (CTĐT) ở bậc đại học và sau đại học để phù hợp với các quy định, quy chế hiện hành của Bộ Giáo dục và Đào tạo, Đại họ"
+    },
+    {
+      "query": "ngành khoa học máy tính và thông tin học gì",
+      "mode": "deterministic_summary",
+      "latency_ms": 41,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.9,
+        "has_citation_marker": true,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.7917,
+        "says_insufficient": false
+      },
+      "answer_preview": "Ngành Khoa học dữ liệu học nền tảng thuộc ba nhóm chính: Khoa học máy tính, Thống kê và Toán ứng dụng. Chương trình cũng nhấn mạnh lập trình, lưu trữ và tổ chức dữ liệu, mô hình hóa, phân tích dữ liệu bằng thống kê và các kỹ năng thực hành dữ liệu [4]."
+    },
+    {
+      "query": "khoa trực thuộc của trường gồm những khoa nào",
+      "mode": "extractive_fallback",
+      "latency_ms": 41,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.5637,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.3137,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Trường Đại học khoa học Tự nhiên, ĐHQGHN Khoa Toán - Cơ - Tin học Khoa Khí tượng Thủy văn và Hải dương học TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN - ĐẠI HỌC QGHN Trường ĐHKTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của….\n- Trường ĐH Khoa học Tự nhiên là trường Đại học đầu tiên trong khu vực Đông Nam Á kiểm định và đạt chuẩn chất lượng cấp trường của Mạng lưới các trường đại học Đông Nam Á.….\n- hiện hành. Những sinh vi"
+    },
+    {
+      "query": "phòng đào tạo liên hệ ở đâu",
+      "mode": "extractive_fallback",
+      "latency_ms": 25,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.63,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.38,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Thí sinh phải chịu hoàn toàn trách nhiệm về hồ sơ đã nộp trực tuyến. Thí sinh trúng tuyển phải nộp đầy đủ hồ sơ (bản cứng) khi nhập học trực tiếp tại Trường Đại học Khoa học Tự nhiên.….\n- Các chương trình đào tạo đạt trình độ quốc tế được triển khai với đối tác đều là những trường đại học nổi tiếng có chất lượng cao của thế giới như: ngành Vật lý với đối tác là Đại học Brown; ngành Sinh học với đối tác là Đại học Tufts;….\n- Chương tr"
+    },
+    {
+      "query": "ba công khai của trường",
+      "mode": "extractive_fallback",
+      "latency_ms": 28,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.4255,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Công văn số 1609/HD-ĐHQGHN ngày 28 tháng 5 năm 2021 hướng dẫn đánh giá theo tiêu chí đại học nghiên cứu định hướng đổi mới sáng tạo IV. Hướng dẫn rà soát điều kiện đảm bảo chất lượng 4.1.….\n- Mặc dù, thời gian qua nhiều Giáo sư, Phó giáo sư đã nghỉ hưu, tỷ lệ Giáo sư, Phó giáo sư trên tổng số giảng viên cơ hữu của Trường đạt 45%, dẫn đầu các trường đại học trong cả nước.….\n- Toán học; Toán Tin; Khoa học máy tính và thông tin; Khoa họ"
+    },
+    {
+      "query": "sứ mạng tầm nhìn của trường",
+      "mode": "extractive_fallback",
+      "latency_ms": 39,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.4237,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Sứ mạng và Tầm nhìn Đào tạo nguồn nhân lực chất lượng cao và phát hiện, bồi dưỡng nhân tài; tiên phong trong nghiên cứu, đổi mới sáng tạo và chuyển giao tri thức về khoa học tự nhiên và công nghệ, góp phần tích cực vào sự phát triển, xây….\n- đại học toàn cầu. Mục tiêu đến năm 2035, các lĩnh vực đào tạo và nghiên cứu chủ chốt của Trường sẽ nằm trong top 500 trường đại học hàng đầu thế giới. - Phát triển một số chương trình đào tạo và "
+    },
+    {
+      "query": "đảm bảo chất lượng của trường",
+      "mode": "extractive_fallback",
+      "latency_ms": 27,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.4082,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Công văn số 1609/HD-ĐHQGHN ngày 28 tháng 5 năm 2021 hướng dẫn đánh giá theo tiêu chí đại học nghiên cứu định hướng đổi mới sáng tạo IV. Hướng dẫn rà soát điều kiện đảm bảo chất lượng 4.1.….\n- Mặc dù, thời gian qua nhiều Giáo sư, Phó giáo sư đã nghỉ hưu, tỷ lệ Giáo sư, Phó giáo sư trên tổng số giảng viên cơ hữu của Trường đạt 45%, dẫn đầu các trường đại học trong cả nước.….\n- tốt nhất; Tăng cường hợp tác với doanh nghiệp và đối tác qu"
+    },
+    {
+      "query": "học bổng sinh viên khoa học tự nhiên",
+      "mode": "extractive_fallback",
+      "latency_ms": 27,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.45,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Hội đồng tuyển sinh Trường Đại học Khoa học Tự nhiên thông báo, hướng dẫn tới các thí sinh trúng tuyển hệ đại học chính quy năm 2025 nhập học trực tuyến và trực tiếp theo các hướng dẫn dưới đây: PHẦN 1:….\n- Trường ĐH Khoa học Tự nhiên là trường Đại học đầu tiên trong khu vực Đông Nam Á kiểm định và đạt chuẩn chất lượng cấp trường của Mạng lưới các trường đại học Đông Nam Á.….\n- Thí sinh phải chịu hoàn toàn trách nhiệm về hồ sơ đã nộp"
+    },
+    {
+      "query": "lịch thi học kỳ",
+      "mode": "extractive_fallback",
+      "latency_ms": 28,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.5988,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.3488,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- Điều chỉnh thông tin xét tuyển ĐHCQ năm 2025 phương thức IELTS kết hợp TRA CỨU KẾT QUẢ XÉT TUYỂN THẲNG VÀO ĐẠI HỌC CHÍNH QUY NĂM 2025 THÔNG BÁO GIA HẠN ĐĂNG KÝ HỒ SƠ XÉT TUYỂN TRỰC TUYẾN ĐẠI HỌC CHÍNH QUY NĂM 2025 HƯỚNG DẪN ĐĂNG KÝ HỒ SƠ….\n- - Đối với hoạt động dạy trên lớp, một tín chỉ yêu cầu thực hiện 15 giờ lý thuyết hoặc 30 giờ thực hành hoặc 90 giờ tự học. - Giờ học tập của mỗi học phần được chia thành 3 loại: + Lí thuyết: mỗi "
+    },
+    {
+      "query": "thạc sĩ khoa học dữ liệu",
+      "mode": "extractive_fallback",
+      "latency_ms": 27,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.65,
+        "has_citation_marker": false,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.5217,
+        "says_insufficient": false
+      },
+      "answer_preview": "Mình tổng hợp được các ý chính sau từ nguồn đã lập chỉ mục:\n\n- - Giảng viên, nghiên cứu viên, chuyên viên kĩ thuật tại các đơn vị trường viện trong lĩnh vực khoa học dữ liệu. 5. Khả năng học tập, nâng cao trình độ sau khi tốt nghiệp Sinh viên hoàn thành chương trình đào tạo Khoa học dữ liệu được trang….\n- Chương trình đào tạo ngành Khoa học dữ liệu trang bị cho sinh viên kiến thức nền tảng thuộc 3 lĩnh vực chính, gồm Khoa học máy tính, Thống kê và Toán ứng dụng, đều là các thế mạnh của Khoa Toán"
+    },
+    {
+      "query": "hiệu trưởng là ai",
+      "mode": "deterministic_fact",
+      "latency_ms": 26,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.9,
+        "has_citation_marker": true,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.7143,
+        "says_insufficient": false
+      },
+      "answer_preview": "Hiệu trưởng Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Hà Nội là GS.TS. Lê Thanh Sơn [1]."
+    },
+    {
+      "query": "hiệu trưởng trường đại học khoa học tự nhiên là ai",
+      "mode": "deterministic_fact",
+      "latency_ms": 43,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.9,
+        "has_citation_marker": true,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.7143,
+        "says_insufficient": false
+      },
+      "answer_preview": "Hiệu trưởng Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Hà Nội là GS.TS. Lê Thanh Sơn [1]."
+    },
+    {
+      "query": "ban giám hiệu trường gồm những ai",
+      "mode": "deterministic_fact",
+      "latency_ms": 40,
+      "citations_count": 1,
+      "groundedness": {
+        "score": 0.9,
+        "has_citation_marker": true,
+        "non_empty": true,
+        "context_token_overlap_rate": 0.4286,
+        "says_insufficient": false
+      },
+      "answer_preview": "Ban Giám hiệu Trường Đại học Khoa học Tự nhiên - Đại học Quốc gia Hà Nội gồm:\n- Hiệu trưởng: GS.TS. Lê Thanh Sơn [1]\n- Phó Hiệu trưởng: PGS.TS. Ngạc An Bang, PGS.TS. Trần Quốc Bình, PGS.TS. Trần Mạnh Cường [1]"
+    }
+  ]
+}

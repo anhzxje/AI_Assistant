@@ -1,0 +1,64 @@
+[
+  {
+    "id": "admin_staff-mail-001",
+    "thread_id": "admin_staff-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline t?ng h?p bi?u m?u sinh vi?n",
+    "snippet": "Deadline g?i bi?u m?u t?ng h?p l? 18/05/2026.",
+    "body": "C?n t?ng h?p danh s?ch v? file ??nh k?m.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "admin",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "admin_staff-mail-002",
+    "thread_id": "admin_staff-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Th?ng b?o h?p giao ban",
+    "snippet": "H?p giao ban ph?ng ban l?c 09:00.",
+    "body": "Chu?n b? s? li?u tuy?n sinh.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "admin",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "admin_staff-mail-003",
+    "thread_id": "admin_staff-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Nh?c r? so?t c?ng v?n",
+    "snippet": "Deadline r? so?t c?ng v?n tr??c 17:00 h?m nay.",
+    "body": "?u ti?n x? l? tr??c cu?i ng?y.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  }
+]

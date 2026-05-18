@@ -1,0 +1,154 @@
+[
+  {
+    "id": "student_clean-mail-001",
+    "thread_id": "student_clean-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Nh?c n?p b?i t?p X?c su?t",
+    "snippet": "Deadline n?p b?i t?p X?c su?t l? 20/05/2026 tr?n LMS.",
+    "body": "Em c?n ho?n t?t file PDF v? n?p tr??c deadline 20/05/2026.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_clean-mail-002",
+    "thread_id": "student_clean-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Th?ng b?o l?ch h?c Data Mining",
+    "snippet": "L?p Data Mining h?c t?i ph?ng 203 l?c 08:00 th? Hai.",
+    "body": "L?ch h?c tu?n n?y kh?ng thay ??i.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_clean-mail-003",
+    "thread_id": "student_clean-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "L?ch l?m vi?c nh?m RAG",
+    "snippet": "Nh?m h?n r? so?t demo RAG l?c 19:30 t?i nay.",
+    "body": "Chu?n b? ph?n retrieval v? citation.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "meeting",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_clean-mail-004",
+    "thread_id": "student_clean-thread-004",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline b?o c?o nh?m",
+    "snippet": "Deadline b?o c?o nh?m Data Mining l? 22/05/2026.",
+    "body": "N?p b?o c?o v? slide demo tr??c deadline.",
+    "date": "2026-05-16T12:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "student_clean-mail-005",
+    "thread_id": "student_clean-thread-005",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "T?i li?u ??c th?m AI",
+    "snippet": "G?i t?i li?u ??c th?m v? supervised learning.",
+    "body": "??c ch??ng 2 tr??c bu?i h?c sau.",
+    "date": "2026-05-16T13:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_clean-mail-006",
+    "thread_id": "student_clean-thread-006",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Th?ng b?o kh?o s?t sinh vi?n",
+    "snippet": "Sinh vi?n ho?n th?nh kh?o s?t m?n h?c trong tu?n.",
+    "body": "Kh?o s?t gi?p c?i thi?n ch?t l??ng gi?ng d?y.",
+    "date": "2026-05-16T14:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "admin",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "student_clean-mail-007",
+    "thread_id": "student_clean-thread-007",
+    "from": "B?n An <an@student.hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "B?n c?ng nh?m x?c nh?n l?ch",
+    "snippet": "M?nh ?? c?p nh?t checklist thuy?t tr?nh.",
+    "body": "H?n g?p t?i th? vi?n sau gi? h?c.",
+    "date": "2026-05-16T15:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "personal",
+    "priority_hint": "low",
+    "expected_task": false
+  },
+  {
+    "id": "student_clean-mail-008",
+    "thread_id": "student_clean-thread-008",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "C?p nh?t ?i?m chuy?n c?n",
+    "snippet": "?i?m chuy?n c?n ?? ???c c?p nh?t tr?n h? th?ng.",
+    "body": "N?u c? sai s?t ph?n h?i tr??c th? S?u.",
+    "date": "2026-05-17T16:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  }
+]

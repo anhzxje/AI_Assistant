@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mock-email-001",
+    "threadId": "thread-ai-project",
+    "labelIds": ["INBOX", "UNREAD", "IMPORTANT"],
+    "snippet": "Nhóm cần nộp báo cáo Data Mining trước ngày mai và chuẩn bị demo RAG.",
+    "payload": {
+      "headers": [
+        {"name": "From", "value": "Thầy Minh <minh@hus.edu.vn>"},
+        {"name": "To", "value": "student@example.com"},
+        {"name": "Subject", "value": "Nhắc nộp báo cáo Data Mining"},
+        {"name": "Date", "value": "Fri, 15 May 2026 08:30:00 +0700"}
+      ]
+    }
+  },
+  {
+    "id": "mock-email-002",
+    "threadId": "thread-thesis",
+    "labelIds": ["INBOX"],
+    "snippet": "Lịch seminar luận văn được chuyển sang 14:00 hôm nay tại phòng 305.",
+    "payload": {
+      "headers": [
+        {"name": "From", "value": "Khoa Toán-Cơ-Tin học <office@hus.edu.vn>"},
+        {"name": "To", "value": "student@example.com"},
+        {"name": "Subject", "value": "Cập nhật lịch seminar luận văn"},
+        {"name": "Date", "value": "Fri, 15 May 2026 09:10:00 +0700"}
+      ]
+    }
+  },
+  {
+    "id": "mock-email-003",
+    "threadId": "thread-scholarship",
+    "labelIds": ["INBOX", "UNREAD"],
+    "snippet": "Hạn nộp hồ sơ học bổng là 20/05/2026. Sinh viên kiểm tra biểu mẫu trước khi gửi.",
+    "payload": {
+      "headers": [
+        {"name": "From", "value": "Phòng Công tác sinh viên <ctsv@hus.edu.vn>"},
+        {"name": "To", "value": "student@example.com"},
+        {"name": "Subject", "value": "Thông báo học bổng tháng 5"},
+        {"name": "Date", "value": "Fri, 15 May 2026 10:00:00 +0700"}
+      ]
+    }
+  }
+]

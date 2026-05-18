@@ -1,0 +1,140 @@
+[
+  {
+    "scenario": "student_clean",
+    "user_id": "student_clean",
+    "seed_user_id": "3b3ba9a7-818c-5e48-b553-3847e39af048",
+    "email": "student.clean@omni.local",
+    "display_name": "Sinh vi?n Clean",
+    "role": "user",
+    "scenario_tags": [
+      "clean",
+      "academic",
+      "few_deadlines"
+    ],
+    "expected_behavior": "Email s?ch, l?ch h?c r?, briefing t?p trung v?o l?p h?c v? deadline g?n."
+  },
+  {
+    "scenario": "student_noisy",
+    "user_id": "student_noisy",
+    "seed_user_id": "35f11a65-e3cd-56ea-92e3-46ffcea1578a",
+    "email": "student.noisy@omni.local",
+    "display_name": "Sinh vi?n Noisy",
+    "role": "user",
+    "scenario_tags": [
+      "noisy",
+      "spam",
+      "filtering"
+    ],
+    "expected_behavior": "Nhi?u email qu?ng c?o/x? h?i; briefing ph?i b? qua nhi?u v? n?u email h?c t?p quan tr?ng."
+  },
+  {
+    "scenario": "student_deadline_heavy",
+    "user_id": "student_deadline_heavy",
+    "seed_user_id": "44aeb2a7-03a9-5f17-84f2-32c6771eaa8a",
+    "email": "student.deadline@omni.local",
+    "display_name": "Sinh vi?n Deadline",
+    "role": "user",
+    "scenario_tags": [
+      "deadline_heavy",
+      "busy_calendar"
+    ],
+    "expected_behavior": "Nhi?u deadline v? l?ch d?y; briefing ?u ti?n vi?c g?p theo h?n."
+  },
+  {
+    "scenario": "lecturer",
+    "user_id": "lecturer",
+    "seed_user_id": "ac6db391-c906-57f2-87c2-62f5238d6b36",
+    "email": "lecturer@omni.local",
+    "display_name": "Gi?ng vi?n Demo",
+    "role": "user",
+    "scenario_tags": [
+      "lecturer",
+      "meeting",
+      "student_email"
+    ],
+    "expected_behavior": "L?ch h?p, seminar, email sinh vi?n; briefing nh?m vi?c gi?ng d?y/nghi?n c?u."
+  },
+  {
+    "scenario": "admin_staff",
+    "user_id": "admin_staff",
+    "seed_user_id": "3ddd9de2-ce93-55cb-a6ca-88f9eba09947",
+    "email": "staff@omni.local",
+    "display_name": "C?n b? Qu?n l?",
+    "role": "admin",
+    "scenario_tags": [
+      "admin",
+      "forms",
+      "notices"
+    ],
+    "expected_behavior": "Th?ng b?o h?nh ch?nh, bi?u m?u, h?n t?ng h?p; staff c? th? v?o dashboard."
+  },
+  {
+    "scenario": "researcher",
+    "user_id": "researcher",
+    "seed_user_id": "bba7d73d-2ac5-5cec-bdae-1186f827b3e4",
+    "email": "researcher@omni.local",
+    "display_name": "Nh? nghi?n c?u Demo",
+    "role": "user",
+    "scenario_tags": [
+      "research",
+      "conference",
+      "lab"
+    ],
+    "expected_behavior": "Email h?i th?o, paper, h?p lab; briefing nh?n deadline paper/seminar."
+  },
+  {
+    "scenario": "thesis_student",
+    "user_id": "thesis_student",
+    "seed_user_id": "15294251-caf2-50a2-8557-e296d269bb04",
+    "email": "thesis.student@omni.local",
+    "display_name": "Sinh vi?n Lu?n v?n",
+    "role": "user",
+    "scenario_tags": [
+      "thesis",
+      "advisor",
+      "defense"
+    ],
+    "expected_behavior": "Trao ??i v?i GVHD, l?ch b?o v?, task lu?n v?n."
+  },
+  {
+    "scenario": "scholarship_case",
+    "user_id": "scholarship_case",
+    "seed_user_id": "2286a85b-7e86-5b38-a363-787e7e6c5e40",
+    "email": "scholarship@omni.local",
+    "display_name": "Sinh vi?n H?c b?ng",
+    "role": "user",
+    "scenario_tags": [
+      "scholarship",
+      "deadline",
+      "attachment"
+    ],
+    "expected_behavior": "Email h?c b?ng, bi?u m?u, h?n n?p h? s?."
+  },
+  {
+    "scenario": "exam_schedule_case",
+    "user_id": "exam_schedule_case",
+    "seed_user_id": "4424704a-c416-50a1-8b68-b9011355996e",
+    "email": "exam.case@omni.local",
+    "display_name": "Sinh vi?n L?ch thi",
+    "role": "user",
+    "scenario_tags": [
+      "exam",
+      "schedule",
+      "reminder"
+    ],
+    "expected_behavior": "Email/l?ch thi v? nh?c ?n t?p; briefing ?u ti?n ca thi."
+  },
+  {
+    "scenario": "empty_new_user",
+    "user_id": "empty_new_user",
+    "seed_user_id": "e215fc34-fa91-5296-8070-eb44ace1a1a4",
+    "email": "empty.user@omni.local",
+    "display_name": "Ng??i d?ng m?i",
+    "role": "user",
+    "scenario_tags": [
+      "empty",
+      "new_user"
+    ],
+    "expected_behavior": "Kh?ng c? email/l?ch; briefing hi?n th? empty state th?n thi?n."
+  }
+]

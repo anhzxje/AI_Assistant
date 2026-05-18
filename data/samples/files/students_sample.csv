@@ -1,0 +1,6 @@
+student_id,full_name,program,cohort,email,status
+SV2026001,Nguyen Minh Anh,Khoa hoc du lieu,2024,nguyen.minh.anh@example.edu.vn,active
+SV2026002,Tran Bao Chau,Toan ung dung va Tin hoc,2023,tran.bao.chau@example.edu.vn,active
+SV2026003,Le Quang Huy,Khoa hoc may tinh va thong tin,2022,le.quang.huy@example.edu.vn,on_leave
+SV2026004,Pham Thu Ha,Khoa hoc du lieu,2024,pham.thu.ha@example.edu.vn,active
+SV2026005,Do Tuan Kiet,Toan hoc,2021,do.tuan.kiet@example.edu.vn,graduated

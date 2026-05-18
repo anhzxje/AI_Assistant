@@ -1,0 +1,63 @@
+[
+  {
+    "id": "thesis_student-mail-001",
+    "thread_id": "thesis_student-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "L?ch g?p gi?ng vi?n h??ng d?n",
+    "snippet": "G?p GVHD l?c 15:00 h?m nay ?? r? so?t lu?n v?n.",
+    "body": "Chu?n b? ch??ng ph??ng ph?p.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "meeting",
+    "priority_hint": "high",
+    "expected_task": false
+  },
+  {
+    "id": "thesis_student-mail-002",
+    "thread_id": "thesis_student-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline n?p b?n th?o lu?n v?n",
+    "snippet": "Deadline n?p b?n th?o l? 24/05/2026.",
+    "body": "G?i file PDF cho GVHD tr??c deadline.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "thesis_student-mail-003",
+    "thread_id": "thesis_student-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "L?ch b?o v? d? ki?n",
+    "snippet": "L?ch b?o v? d? ki?n v?o tu?n sau.",
+    "body": "Theo d?i th?ng b?o ch?nh th?c t? khoa.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "admin",
+    "priority_hint": "medium",
+    "expected_task": false
+  }
+]

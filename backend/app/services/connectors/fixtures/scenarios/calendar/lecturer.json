@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lecturer-event-001",
+    "summary": "H?p b? m?n",
+    "description": "",
+    "start": "2026-05-16T14:00:00+07:00",
+    "end": "2026-05-16T15:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "meeting",
+    "priority_hint": "high"
+  },
+  {
+    "id": "lecturer-event-002",
+    "summary": "Seminar Khoa h?c d? li?u",
+    "description": "",
+    "start": "2026-05-16T16:00:00+07:00",
+    "end": "2026-05-16T17:30:00+07:00",
+    "location": "HUS",
+    "attendees": [],
+    "status": "confirmed",
+    "category": "seminar",
+    "priority_hint": "medium"
+  }
+]

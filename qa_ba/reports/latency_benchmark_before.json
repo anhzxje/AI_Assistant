@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-05-16T04:31:31.654710+00:00",
+  "health": {
+    "status": "ok",
+    "qdrant": "available",
+    "llm": "ollama"
+  },
+  "health_latency_ms": 50,
+  "cases": [
+    {
+      "query": "khoa học dữ liệu học những môn gì",
+      "total_latency_ms": 6856,
+      "first_token_latency_ms": null,
+      "assistant_intent": "institutional_rag",
+      "assistant_mode": "extractive_guardrail",
+      "assistant_source_count": 3,
+      "assistant_metadata_latency_ms": 6830,
+      "direct_rag": {
+        "mode": "institutional_rag",
+        "skipped": false,
+        "llm_available": true,
+        "retrieval_confidence": "high",
+        "source_count": 6,
+        "embedding_latency_ms": 12662,
+        "qdrant_retrieval_plus_rerank_latency_ms": 29,
+        "answer_synthesis_latency_ms": 1,
+        "llm_generation_latency_ms": 3146,
+        "citation_formatting_latency_ms": 0
+      }
+    },
+    {
+      "query": "hiệu trưởng HUS là ai",
+      "total_latency_ms": 100,
+      "first_token_latency_ms": null,
+      "assistant_intent": "institutional_rag",
+      "assistant_mode": "deterministic_fact",
+      "assistant_source_count": 1,
+      "assistant_metadata_latency_ms": 83,
+      "direct_rag": {
+        "mode": "institutional_rag",
+        "skipped": false,
+        "llm_available": true,
+        "retrieval_confidence": "high",
+        "source_count": 1,
+        "embedding_latency_ms": 18,
+        "qdrant_retrieval_plus_rerank_latency_ms": 35,
+        "answer_synthesis_latency_ms": 0,
+        "llm_generation_latency_ms": 520,
+        "citation_formatting_latency_ms": 0
+      }
+    },
+    {
+      "query": "hôm nay tôi cần làm gì",
+      "total_latency_ms": 4201,
+      "first_token_latency_ms": null,
+      "assistant_intent": "daily_briefing",
+      "assistant_mode": "not_used",
+      "assistant_source_count": 3,
+      "assistant_metadata_latency_ms": 4197,
+      "direct_rag": {
+        "mode": "daily_briefing",
+        "skipped": true
+      }
+    },
+    {
+      "query": "giải thích AI là gì",
+      "total_latency_ms": 1306,
+      "first_token_latency_ms": null,
+      "assistant_intent": "general_chat",
+      "assistant_mode": "ollama",
+      "assistant_source_count": 0,
+      "assistant_metadata_latency_ms": 1302,
+      "direct_rag": {
+        "mode": "general_chat",
+        "skipped": true
+      }
+    },
+    {
+      "query": "ngành này có học lập trình không?",
+      "total_latency_ms": 26,
+      "first_token_latency_ms": null,
+      "assistant_intent": "clarification",
+      "assistant_mode": "not_used",
+      "assistant_source_count": 0,
+      "assistant_metadata_latency_ms": 23,
+      "direct_rag": {
+        "mode": "clarification",
+        "skipped": true
+      }
+    }
+  ]
+}

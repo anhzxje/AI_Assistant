@@ -1,0 +1,81 @@
+[
+  {
+    "id": "lecturer-mail-001",
+    "thread_id": "lecturer-thread-001",
+    "from": "Tr??ng b? m?n <head@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "L?ch h?p b? m?n",
+    "snippet": "H?p b? m?n l?c 14:00 h?m nay.",
+    "body": "Trao ??i ph?n c?ng gi?ng d?y.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "meeting",
+    "priority_hint": "high",
+    "expected_task": false
+  },
+  {
+    "id": "lecturer-mail-002",
+    "thread_id": "lecturer-thread-002",
+    "from": "Sinh vi?n <sv@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Sinh vi?n h?i b?i t?p",
+    "snippet": "Em xin h?i v? y?u c?u b?i t?p cu?i k?.",
+    "body": "Sinh vi?n c?n ph?n h?i h??ng d?n.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  },
+  {
+    "id": "lecturer-mail-003",
+    "thread_id": "lecturer-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline ph?n bi?n b?i b?o",
+    "snippet": "Deadline g?i nh?n x?t ph?n bi?n l? 23/05/2026.",
+    "body": "Vui l?ng g?i review tr??c deadline.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": true,
+    "attachments": [
+      {
+        "filename": "bieu-mau.pdf",
+        "mime_type": "application/pdf"
+      }
+    ],
+    "category": "research",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "lecturer-mail-004",
+    "thread_id": "lecturer-thread-004",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "M?i seminar khoa h?c d? li?u",
+    "snippet": "Seminar di?n ra chi?u nay t?i ph?ng 506.",
+    "body": "Ch? ?? graph retrieval.",
+    "date": "2026-05-16T12:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "seminar",
+    "priority_hint": "medium",
+    "expected_task": false
+  }
+]

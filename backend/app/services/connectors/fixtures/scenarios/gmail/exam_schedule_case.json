@@ -1,0 +1,59 @@
+[
+  {
+    "id": "exam_schedule_case-mail-001",
+    "thread_id": "exam_schedule_case-thread-001",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Th?ng b?o l?ch thi cu?i k?",
+    "snippet": "L?ch thi C? s? d? li?u v?o 22/05/2026 ph?ng 401.",
+    "body": "Sinh vi?n c? m?t tr??c 15 ph?t.",
+    "date": "2026-05-16T09:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "high",
+    "expected_task": false
+  },
+  {
+    "id": "exam_schedule_case-mail-002",
+    "thread_id": "exam_schedule_case-thread-002",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "Deadline x?c nh?n ca thi",
+    "snippet": "Deadline x?c nh?n ca thi l? 18/05/2026.",
+    "body": "Ki?m tra m? sinh vi?n v? ph?n h?i n?u tr?ng l?ch.",
+    "date": "2026-05-16T10:00:00+07:00",
+    "labels": [
+      "INBOX",
+      "UNREAD",
+      "IMPORTANT"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "deadline",
+    "priority_hint": "high",
+    "expected_task": true
+  },
+  {
+    "id": "exam_schedule_case-mail-003",
+    "thread_id": "exam_schedule_case-thread-003",
+    "from": "Ph?ng ??o t?o HUS <daotao@hus.edu.vn>",
+    "to": "student@omni.local",
+    "subject": "T?i li?u ?n t?p",
+    "snippet": "?? c??ng ?n t?p ?? ??ng tr?n LMS.",
+    "body": "?n ch??ng transaction v? indexing.",
+    "date": "2026-05-16T11:00:00+07:00",
+    "labels": [
+      "INBOX"
+    ],
+    "has_attachment": false,
+    "attachments": [],
+    "category": "academic",
+    "priority_hint": "medium",
+    "expected_task": false
+  }
+]
